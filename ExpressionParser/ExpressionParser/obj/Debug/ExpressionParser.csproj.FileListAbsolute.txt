@@ -1,0 +1,6 @@
+c:\users\yamuna\documents\visual studio 2013\Projects\ExpressionParser\ExpressionParser\bin\Debug\ExpressionParser.exe.config
+c:\users\yamuna\documents\visual studio 2013\Projects\ExpressionParser\ExpressionParser\bin\Debug\ExpressionParser.exe
+c:\users\yamuna\documents\visual studio 2013\Projects\ExpressionParser\ExpressionParser\bin\Debug\ExpressionParser.pdb
+c:\users\yamuna\documents\visual studio 2013\Projects\ExpressionParser\ExpressionParser\obj\Debug\ExpressionParser.csprojResolveAssemblyReference.cache
+c:\users\yamuna\documents\visual studio 2013\Projects\ExpressionParser\ExpressionParser\obj\Debug\ExpressionParser.exe
+c:\users\yamuna\documents\visual studio 2013\Projects\ExpressionParser\ExpressionParser\obj\Debug\ExpressionParser.pdb

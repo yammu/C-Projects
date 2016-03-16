@@ -1,0 +1,8 @@
+c:\users\yamuna\documents\visual studio 2013\Projects\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe
+c:\users\yamuna\documents\visual studio 2013\Projects\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.pdb
+c:\users\yamuna\documents\visual studio 2013\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csprojResolveAssemblyReference.cache
+c:\users\yamuna\documents\visual studio 2013\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Form1.resources
+c:\users\yamuna\documents\visual studio 2013\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Properties.Resources.resources
+c:\users\yamuna\documents\visual studio 2013\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.GenerateResource.Cache
+c:\users\yamuna\documents\visual studio 2013\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.exe
+c:\users\yamuna\documents\visual studio 2013\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.pdb
